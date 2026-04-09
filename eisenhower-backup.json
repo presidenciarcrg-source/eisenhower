@@ -1,0 +1,34 @@
+{
+  "matrices": [
+    {
+      "name": "FAMILIAR",
+      "icon": "👨‍👩‍👧‍👦",
+      "id": "cil8njs9g3pmnq2o82x",
+      "created_date": "2026-04-08T13:16:53.865Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "en5ife4g58mnq2og86",
+      "title": "Prueba 2",
+      "quadrant": 4,
+      "matrix_id": "cil8njs9g3pmnq2o82x",
+      "completed": false,
+      "subtasks": [],
+      "notes": "",
+      "due_date": "",
+      "created_date": "2026-04-08T13:17:04.422Z"
+    },
+    {
+      "id": "726kintgcuymnq2ohfh",
+      "title": "Prueba 1",
+      "quadrant": 1,
+      "matrix_id": "cil8njs9g3pmnq2o82x",
+      "completed": false,
+      "subtasks": [],
+      "notes": "",
+      "due_date": "",
+      "created_date": "2026-04-08T13:17:05.981Z"
+    }
+  ]
+}
